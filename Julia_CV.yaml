@@ -1,0 +1,323 @@
+cv:
+  name: Júlia Nunes Estrela de Carvalho
+  location: Campinas, SP
+  email: estrelanc.psicologia@gmail.com
+  phone: tel:+55-19-99848-1998
+  social_networks:
+    - network: LinkedIn
+      username: estreladecarvalho
+  sections:
+    Resumo:
+      - "Psicóloga e pós-graduanda em Neurociências e Comportamento, apaixonada pelo estudo da mente e do corpo humano, sendo estudo voltado para área biológicas. Tem um lado humano muito forte e ama estar perto de pessoas, trocar experiências, acreditando nas potencialidades das histórias, aprendizados e vivências. Lida bem com comunicação e escrita, apreciando tudo que envolve artes. Uma amante dos livros e das produções cinematográficas."
+
+    Formação Acadêmica:
+      - institution: Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
+        area: Neurociência e Comportamento
+        degree: Pós
+        start_date: 2025-02
+
+      - institution: Universidade de Ribeirão Preto (UNAERP)
+        area: Psicologia
+        degree: B.Sc
+        start_date: 2020
+        end_date: 2024
+
+    Experiência:
+      - company: UNAERP
+        position: Extensão - Ambulatório de Saúde Mental do Hospital Electro Bonini
+        location: Ribeirão Preto - SP
+        start_date: 2024-08
+        end_date: 2024-12
+        highlights:
+          - Participação como extensionista do Ambulatório de Saúde Mental do Hospital Electro Bonini
+
+      - company: UNAERP
+        position: Ambulatório de Luto
+        location: Ribeirão Preto - SP
+        start_date: 2024-02
+        end_date: 2024-12
+        highlights:
+          - "Participação do grupo de pesquisa Ambulatório de Luto
+            do curso de Psicologia da Universidade de Ribeirão
+            Preto - UNAERP. As atividades desse grupo, voltadas à
+            formação do graduando de psicologia e ao serviço de
+            extensão à comunidade estão divididas entre atendimento
+            à população enlutada (por diferentes tipos de processo
+            de luto), supervisões clínicas sobre os casos atendidos e
+            elaboração de pesquisas sobre o tema."
+
+      - company: UNAERP
+        position: Projeto Formando Campeões para a Vida
+        location: Ribeirão Preto - SP
+        start_date: 2024-02
+        end_date: 2024-12
+        highlights:
+          - Participação como extensionista voluntária do curso de Psicologia no projeto Formando Campeões para a Vida, com enfoque na psicologia do esporte no apoio para as equipes da natação.
+
+      - company: UNAERP
+        position: Representante da Turma 38 do Curso de Psicologia
+        location: Ribeirão Preto - SP
+        start_date: 2020-02
+        end_date: 2024-12
+        highlights:
+          - Representante da turma 38 do curso de Psicologia da Universidade de Ribeirão Preto escolhida pelos colegas de turma para representá-los em questões acadêmicas.
+
+      - company: UNAERP
+        position: Representante Discente
+        location: Ribeirão Preto - SP
+        start_date: 2023-03
+        end_date: 2024-03
+        highlights:
+          - Participação voluntária como representante discente do Curso de Psicologia da Universidade de Ribeirão Preto
+
+      - company: UNAERP
+        position: Extensão - Triagem Clínica de Psicologia
+        location: Ribeirão Preto - SP
+        start_date: 2023-02
+        end_date: 2023-12
+        highlights:
+          - Participação como extensionista da Triagem da Clínica de Psicologia da Universidade de Ribeirão Preto.
+
+      - company: UNAERP
+        position: Iniciação Científica em Neurofarmacologia
+        location: Ribeirão Preto - SP
+        start_date: 2021-09
+        end_date: 2023-01
+        highlights:
+          - 'Iniciação Científica no departamento de Biotecnologia a partir do apoio técnico ao projeto de doutorado "Potencial antidepressivo da Riparina A: Efeitos sobre os níveis do fator neurotrófico derivado do cérebro (BDNF) no modelo de depressão induzido por CUMS em ratos".
+
+            Experiência em experimentação animal:
+            - Teste Esquiva Passiva (Shuttle Box)
+            - Protocolo CUMS
+            - Ensaio de contorções abdominais induzidas por ácido acético 0,1 N
+            - Teste de retirada da cauda (Tail Flick test)'
+
+      - company: UNAERP
+        position: Monitora de Neuroanatomia
+        location: Ribeirão Preto - SP
+        start_date: 2022-03
+        end_date: 2022-06
+        highlights:
+          - Monitora voluntária da disciplina de Neuroanatomia do curso de Psicologia
+
+      - company: UNAERP
+        position: Monitoria de Anatomia Humana Geral
+        location: Ribeirão Preto - SP
+        start_date: 2021-04
+        end_date: 2021-12
+        highlights:
+          - Monitora voluntária da disciplina de Anatomia Humana dos cursos de Psicologia, Farmácia e Fisioterapia
+
+      - company: UNAERP
+        position: Marketing - Associação Atlética Acadêmica de Psicologia (AAAPU)
+        location: Ribeirão Preto - SP
+        start_date: 2020-11
+        end_date: 2021-09
+        highlights:
+          - Uma das responsáveis pelas mídias sociais da Atlética de Psicologia da UNAERP
+
+      - company: Oxford Assessoria em Eventos
+        position: Comissão Auxiliar Voluntária do Congresso Aprender Criança 2022
+        location: Ribeirão Preto - SP
+        date: 2022-08
+        highlights:
+          - Convidada por docente a ser parte auxiliar da comissão do Congresso Aprender Criança 2022 (18 a 20 de agosto de 2022)
+
+    Estágios Curriculares:
+      - label: Psicologia de Orientação Psicanalítica
+        details: "Clínica de Psicologia da Universidade Ribeirão Preto UNAERP"
+
+      - label: "Psicologia Saúde da Família"
+        details: "Associação Todos na Fraternidade"
+
+      - label: "Psicologia da Saúde"
+        details: "Hospital Beneficência Portuguesa"
+
+      - label: "Psicologia Saúde Mental"
+        details: "Hospital Santa Tereza"
+
+      - label: "Psicologia Prevenção e Promoção de Saúde em Crianças"
+        details: "SCFV - Serviço de Convivência e Fortalecimento de Vínculos - Bonfim"
+
+      - label: "Psicologia Psicoterapia Comportamental"
+        details: "Clínica de Psicologia da Universidade Ribeirão Preto UNAERP"
+
+      - label: "Psicologia Psicoterapia de Grupo"
+        details: "Instituto Luz"
+
+      - label: "Psicologia Plantão Psicológico"
+        details: "Hospital Eletro Bonini UNAERP"
+
+      - label: "Psicologia Saúde do Trabalhador"
+        details: "Projeto Formando Campeões na vida UNAERP"
+
+      - label: "Psicologia Prevenção e Promoção de Saúde em Adultos"
+        details: "Projeto Nascer Maternidade UNAERP"
+
+      - label: "Psicologia Prevenção e Promoção de Saúde em Adolescentes"
+        details: "SCFV Simioni"
+
+      - label: "Psicologia Psicologia do Trabalho"
+        details: "Projeto Formando Campeões na vida UNAERP"
+
+      - label: "Psicodiagnóstico"
+        details: "Clínica de Psicologia da Universidade Ribeirão Preto UNAERP"
+
+      - label: "Psicologia Psicologia Escolar e Educacional I e II"
+        details: "E.E. Miguel Jorge"
+
+      - label: "Atividade Prática - Psicologia Aplicada à Pessoa com Deficiência I e II"
+        details: "Clínica de Psicologia da Universidade Ribeirão Preto UNAERP"
+
+      - label: "Atividade prática Psicologia Psicologia Escolar e Educacional I e II"
+        details: "E.E. Miguel Jorge"
+
+      - label: "Orientação Profissional e de Carreira"
+        details: "Clínica de Psicologia da Universidade Ribeirão Preto - UNAERP"
+
+      - label: "Atividade Prática - Métodos e Técnicas de Avaliação Psicológica II."
+        details: "Clínica de Psicologia da Universidade Ribeirão Preto - UNAERP"
+
+      - label: "Atividade Prática - Psicomotricidade"
+        details: "Centro de Educação Especial e Ensino Fundamental - Egydio Pedreschi"
+
+      - label: "Atividade Prática - Psicologia Jurídica"
+        details: "Conselho Tutelar III"
+
+      - label: "Atividade Prática Métodos e Técnicas de Avaliação Psicológica I."
+        details: "Clínica de Psicologia da Universidade Ribeirão Preto UNAERP"
+
+      - label: "Atividade Prática Psicologia Educacional e Problemas de Aprendizagem"
+        details: "Clínica de Psicologia da Universidade Ribeirão Preto UNAERP"
+
+    Cursos:
+      - company: "Ambiente Virtual de Aprendizagem do Ministério da Educação (MEC)"
+        position: "Formação de Professores em Neuroeducação SEB"
+        start_date: 2025-03
+
+      - company: Beneficiência Portuguesa de Ribeirão Preto
+        position: "XII curso de psicologia hospitalar: introdução à prática no atendimento breve dentro do hospital geral"
+        date: 2024-12
+      - company: Instituto Federal do Rio Grande do Sul
+        position: Primeiros Socorros para Profissionais de Saúde
+        date: 2020-07
+
+    Participação em Congressos:
+      # A AUTOESTIMA DE PESSOAS COM DEFICIÊNCIA VISUAL CONGÊNITA E DEFICIÊNCIA VISUAL ADQUIRIDA ATRAVÉS DA EXPRESSÃO ARTÍSTICA - CONIC 2024 - Congresso de Iniciação científica e pesquisa da UNAERP
+      - name: 25º Congresso de Iniciação Científica e Pesquisa - UNAERP
+        date: 2024-11
+        highlights:
+          - 'Apresentação de parte da pesquisa "A autoestima de pessoas com deficiência visual congênita e deficiência visual adquirida através da expressão artística", no Congresso de Iniciação Científica e Pesquisa - UNAERP'
+
+      - name: 2º Congresso de Iniciação Científica do Curso de Psicologia - UNAERP
+        date: 2024-08
+        highlights:
+          - 'Apresentação do projeto de TCC intitulado "A autoestima de pessoas com deficiência visual congênita e deficiência visual adquirida através da expressão artística"'
+
+      - name: 22º Congresso de Iniciação Científica e Pesquisa - UNAERP
+        date: 2021-05
+        highlights:
+          - 'Apresentação do trabalho intitulado "Inovação Educacional: Metodologias Ativas na consolidação do ensino-aprendizagem em anatomia humana", no Congresso de Iniciação Científica e Pesquisa - UNAERP'
+
+    Projetos:
+      - name: Projeto Formando Campeões para a Vida
+        start_date: 2024-02
+        end_date: 2024-12
+        highlights:
+          - Participação como extensionista voluntária do curso de Psicologia no projeto Formando Campeões para a Vida, com enfoque na psicologia do esporte no apoio para as equipes da natação, sendo os atendimentos em grupo quanto individuais sob supervisão do docente responsável.
+      - name: Site Oficial da Engenharia de Computação - UNIFESP
+        start_date: 2023-06
+        end_date: 2023-09
+        highlights:
+          - Participação na criação do site oficial do curso de Engenharia de Computação - UNIFESP junto com uma equipe voluntária e a coordenação do curso.
+          - Desenvolvimento do design e identidade visual do site e formatação do conteúdo.
+          - "[https://ecomp.unifesp.br/](https://ecomp.unifesp.br/)"
+
+    Voluntariado:
+      - company: Centro de Voluntarioado de Ribeirão Preto - Projeto Conta Mais
+        position: Contadora de historias para crianças hospitalizadas no UE HC
+        location: Ribeirão Preto - SP
+
+      - company: Autônoma
+        position: Recreação Infantil
+        location: Ribeirão Preto - SP
+
+      - company: Hamburgada do bem
+        position: Fótografa
+        location: Campinas - SP
+
+design:
+  theme: classic
+  font: Source Sans 3
+  font_size: 10pt
+  page_size: letterpaper
+  color: "#004f90"
+  disable_external_link_icons: false
+  disable_page_numbering: false
+  page_numbering_style: NAME - Pág PAGE_NUMBER de TOTAL_PAGES
+  disable_last_updated_date: false
+  last_updated_date_style: Atualizado pela última vez - TODAY
+  header_font_size: 30 pt
+  text_alignment: justified
+  seperator_between_connections: ""
+  use_icons_for_connections: true
+  margins:
+    page:
+      top: 2 cm
+      bottom: 2 cm
+      left: 2 cm
+      right: 2 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.5 cm
+      education_degree_width: 1 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+  # show_timespan_in:
+  #   - Experiência
+
+locale_catalog:
+  phone_number_format: national
+  date_style: "MONTH_ABBREVIATION YEAR"
+  abbreviations_for_months:
+    - Jan
+    - Fev
+    - Mar
+    - Abr
+    - Maio
+    - Jun
+    - Jul
+    - Ago
+    - Set
+    - Out
+    - Nov
+    - Dez
+  full_names_of_months:
+    - Janeiro
+    - Fevereiro
+    - Março
+    - Abril
+    - Maio
+    - Junho
+    - Julho
+    - Agosto
+    - Setembro
+    - Outubro
+    - Novembro
+    - Dezembro
+  month: mês
+  months: meses
+  year: ano
+  years: anos
+  present: o momento
+  to: até
