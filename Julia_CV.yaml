@@ -197,10 +197,14 @@ cv:
         position: "Formação de Professores em Neuroeducação SEB"
         start_date: 2025-03
 
+      - company: "Coursera"
+        position: "Psychological First Aid"
+        start_date: 2023
+
       - company: Beneficiência Portuguesa de Ribeirão Preto
         position: "XII curso de psicologia hospitalar: introdução à prática no atendimento breve dentro do hospital geral"
         date: 2022-12
-        
+
       - company: Instituto Federal do Rio Grande do Sul
         position: Primeiros Socorros para Profissionais de Saúde
         date: 2020-07
