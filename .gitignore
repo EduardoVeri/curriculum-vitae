@@ -4,3 +4,7 @@
 *.html
 *_CV.md
 *_CV.tex
+
+# Python
+*.pyc
+__pycache__/
