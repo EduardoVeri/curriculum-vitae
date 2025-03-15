@@ -124,8 +124,6 @@ cv:
           - Convidada por docente a ser parte auxiliar da comissão do Congresso Aprender Criança 2022 (18 a 20 de agosto de 2022)
 
     Estágios Curriculares:
-      - label: Psicologia de Orientação Psicanalítica
-        details: "Clínica de Psicologia da Universidade Ribeirão Preto UNAERP"
 
       - label: "Psicologia Saúde da Família"
         details: "Associação Todos na Fraternidade"
@@ -166,14 +164,18 @@ cv:
       - label: "Psicologia Psicologia Escolar e Educacional I e II"
         details: "E.E. Miguel Jorge"
 
+      - label: "Orientação Profissional e de Carreira"
+        details: "Clínica de Psicologia da Universidade Ribeirão Preto - UNAERP"
+      
+      - label: Psicologia de Orientação Psicanalítica
+        details: "Clínica de Psicologia da Universidade Ribeirão Preto UNAERP"
+
       - label: "Atividade Prática - Psicologia Aplicada à Pessoa com Deficiência I e II"
         details: "Clínica de Psicologia da Universidade Ribeirão Preto UNAERP"
 
       - label: "Atividade prática Psicologia Psicologia Escolar e Educacional I e II"
         details: "E.E. Miguel Jorge"
 
-      - label: "Orientação Profissional e de Carreira"
-        details: "Clínica de Psicologia da Universidade Ribeirão Preto - UNAERP"
 
       - label: "Atividade Prática - Métodos e Técnicas de Avaliação Psicológica II."
         details: "Clínica de Psicologia da Universidade Ribeirão Preto - UNAERP"
