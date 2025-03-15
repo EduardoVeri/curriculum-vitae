@@ -1,0 +1,184 @@
+cv:
+  name: Eduardo Verissimo Faccio
+  location: São José dos Campos
+  email: verissimo.eduardo@unifesp.br
+  phone: tel:+55-19-99758-8312
+  social_networks:
+    - network: LinkedIn
+      username: eduardo-verissimo
+    - network: GitHub
+      username: EduardoVeri
+    - network: YouTube
+      username: eduardoverissimofaccio
+  sections:
+    Resumo:
+      - "Formado no Bacharel Interdisciplinar em Ciência e Tecnologia e estudante do décimo semestre em Engenharia da Computação na UNIFESP em São José dos Campos. Altruísta, justo e amoroso são três pequenas palavras que me descrevem de modo geral. Sempre visando dar o meu melhor no que faço e apoiando quem estiver em minha companhia nessa jornada. Atualmente busco  aperfeiçoar sobre diversas linguagens de programação, como C, C++, Java e Python e em suas aplicações na área de aprendizado de máquina. Minha paixão pela tecnologia é o que me impulsiona a continuar explorando e aprendendo cada vez mais."
+    Formação Acadêmica:
+      - institution: Universidade Federal de São Paulo (UNIFESP)
+        area: Bacharelado em Engenharia de Computação
+        start_date: 2020
+        end_date: 2026
+        highlights:
+          - "Nota Atual: 9,575"
+      - institution: Universidade Federal de São Paulo (UNIFESP)
+        area: Bacharelado Interdisciplinar em Ciência e Tecnologia
+        start_date: 2020
+        end_date: 2023
+        highlights:
+          - "Nota final: 9,752"
+    Experiência:
+      - company: Samsung
+        position: Estagiário em Pesquisa e Desenvolvimento em Inteligência Artificial
+        location: Campinas, SP
+        start_date: 2023-11
+        highlights:
+          - Integrante do time de Frequência Cardíaca, em que o principal objetivo é melhorar os resultados estimados desse dado pelos dispositivos vestíveis da Samsung.
+          - Auxílio no processamento, análise e validação de dados obtidos por meio de protocolos de exercício físico.
+          - Desenvolvimento e validação de algoritmos de aprendizado de máquina.
+          - Desenvolvimento e manutenção de scripts e pipelines utilizando a linguagem Python.
+          - Desenvolvimento e manutenção de códigos embarcados em C.
+          - Otimização e automação de processos por meio de ferramentas de integração contínua.
+      - company: Sistema de Recomendação Educacional (SIREEDU)
+        position: Desenvolvedor
+        location: São José dos Campos - SP
+        start_date: 2024-03
+        highlights:
+          - "O SIREEDU é um projeto de mestrado em pesquisa operacional da UNIFESP liderado pela aluna Lucineide Pimenta, visando auxiliar alunos em cursos superiores ao recomendar produtos educacionais, com base em dois questionários: inteligências múltiplas e estilo de aprendizagem."
+          - Integrante voluntário do time para desenvolver a primeira versão do sistema de recomendação.
+          - Manutenção de código legado desenvolvido no framework Aurelia (JavaScript) para frontend e Django para backend.
+      - company: Mulheres nas Exatas - UNIFESP
+        position: Professor de Python - Nível Básico
+        location: São José dos Campos - SP
+        start_date: 2022-05
+        end_date: 2022-11
+        highlights:
+          - "O projeto mulheres nas exatas possui como principal motivação cumprir os objetivos 4 e 5 de desenvolvimento sustentável da ONU: 1) garantir acesso à educação inclusiva, de qualidade e equitativa; 2) Alcançar a igualdade de gênero e empoderar as mulheres e meninas."
+          - "Dessa forma, eu e minha colega Bárbara Morais tínhamos o papel de introduzir a linguagem de programação Python, de maneira simples e prática, para alunos de ensino fundamental inscritas no programa Decolar da cidade de São José dos Campos. Nossa atuação era fundamental para permitir que esses alunos e alunas tenham o desejo de ingressar em áreas de STEM."
+          - "Uma breve apresentação do nosso trabalho no projeto: [Vídeo](https://youtu.be/LuUihXDo2jU?si=__kTMe4_IR3ZlKhy)"
+    Projetos:
+      - name: Desenvolvimento de Arquitetura Computacional
+        date: "[GitHub](https://github.com/EduardoVeri)"
+        highlights:
+          - Desenvolvimento de um sistema computacional composto de um processador, interpretador, compilador e sistema operacional mínimo, como projetos de conclusão de disciplinas da faculdade.
+          - "Ferramentas Utilizadas: C, Python, Verilog, Assembly."
+      - name: Site Oficial da Engenharia de Computação - UNIFESP
+        date: "[ecomp.unifesp.br](https://ecomp.unifesp.br/)"
+        highlights:
+          - Nós representantes discentes do curso de Engenharia da Computação, com auxílio da coordenação do curso, organizamos e lideramos o desenvolvimento do novo site oficial para o curso. Para isso, contamos com a participação de alguns alunos que se voluntariaram para o feito.
+
+      - name: Canal no YouTube
+        date: "[Link do canal](https://www.youtube.com/@eduardoverissimofaccio)"
+        highlights:
+          - Vídeos produzidos para as disciplinas da faculdade como atividades avaliativas em conjunto com meus colegas das disciplinas.
+    Cursos:
+      - company: Udemy
+        position: PyTorch for Deep Learning with Python Bootcamp
+      - company: Alura
+        position: Formação Deep Learning com Pytorch
+      - company: Alura
+        position: Formação Python para Data Science
+      - company: Udemy
+        position: CMake Tests and Tooling for C/C++ Projects
+      - company: Alura
+        position: Formação Arquitetura e Design de Projetos Java
+    Tecnologias:
+      - label: Linguagens
+        details: C (Avançado), Python (Avançado), Java (Intermediário), JavaScript (Intermediário), C++ (Básico), SQL (Básico).
+    Voluntariado:
+      - company: Universidade Federal de São Paulo (UNIFESP)
+        position: Representante discente do curso de Engenharia de Computação.
+        start_date: 2023-03
+      - company: Universidade Federal de São Paulo (UNIFESP)
+        position: Monitor de Algoritmos e Estruturas de Dados.
+        start_date: 2021-09
+        end_date: 2022-03
+      - company: Universidade Federal de São Paulo (UNIFESP)
+        position: Monitor de Circuitos Elétricos II.
+        start_date: 2023-03
+        end_date: 2023-07
+      - company: Universidade Federal de São Paulo (UNIFESP)
+        position: "Monitor de Lab. Sistemas Computacionais: Arquitetura e Organização de Computadores"
+        start_date: 2023-05
+        end_date: 2023-07
+    Prêmios:
+      - name: Samsung SW Certificate - Advanced
+        date: "Samsung"
+        highlights:
+          - O Teste de Certificação de Software (SW) é um programa de certificação criado pela Samsung para avaliar e validar as habilidades de desenvolvimento de software de pesquisadores, engenheiros e desenvolvedores que estão envolvidos em projetos de software.
+      - name: Menção Honrosa
+        date: "Dom Bosco Americana"
+        highlights:
+          - Menção Honrosa conferida após obter média anual de 9,37 durante o Ensino Médio.
+
+design:
+  theme: sb2nov
+  font: Latin Modern Serif
+  font_size: 10pt
+  page_size: letterpaper
+  color: "#004f90"
+  disable_external_link_icons: false
+  disable_page_numbering: true
+  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
+  disable_last_updated_date: true
+  last_updated_date_style: Last updated in TODAY
+  header_font_size: 24 pt
+  text_alignment: justified
+  seperator_between_connections: ""
+  use_icons_for_connections: true
+  margins:
+    page:
+      top: 2 cm
+      bottom: 2 cm
+      left: 2 cm
+      right: 2 cm
+    section_title:
+      top: 0.3 cm
+      bottom: 0.2 cm
+    entry_area:
+      left_and_right: 0.2 cm
+      vertical_between: 0.2 cm
+      date_and_location_width: 4.5 cm
+    highlights_area:
+      top: 0.10 cm
+      left: 0.4 cm
+      vertical_between_bullet_points: 0.10 cm
+    header:
+      vertical_between_name_and_connections: 0.3 cm
+      bottom: 0.3 cm
+      horizontal_between_connections: 0.5 cm
+
+locale_catalog:
+  phone_number_format: national
+  date_style: "MONTH_ABBREVIATION YEAR"
+  abbreviations_for_months:
+    - Jan
+    - Fev
+    - Mar
+    - Abr
+    - Maio
+    - Jun
+    - Jul
+    - Ago
+    - Set
+    - Out
+    - Nov
+    - Dez
+  full_names_of_months:
+    - Janeiro
+    - Fevereiro
+    - Março
+    - Abril
+    - Maio
+    - Junho
+    - Julho
+    - Agosto
+    - Setembro
+    - Outubro
+    - Novembro
+    - Dezembro
+  month: mês
+  months: meses
+  year: ano
+  years: anos
+  present: o momento
+  to: até
