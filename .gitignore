@@ -4,6 +4,7 @@
 *.html
 *_CV.md
 *_CV.tex
+*.typ
 
 # Python
 *.pyc
