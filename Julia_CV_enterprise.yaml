@@ -1,0 +1,146 @@
+cv:
+  name: Júlia Nunes Estrela de Carvalho
+  location: Campinas, SP
+  email: estrelanc.psicologia@gmail.com
+  phone: tel:+55-19-99848-1998
+  social_networks:
+    - network: LinkedIn
+      username: estreladecarvalho
+  sections:
+    Resumo:
+      - "Psicóloga e pós-graduanda em Neurociências e Comportamento.  Possui sólida trajetória acadêmica em pesquisa e extensão universitária, atuando em contextos hospitalares, esportivos e de luto. Habilidade em gestão de projetos acadêmicos e comunicação, unindo prática clínica baseada em evidências com uma abordagem humanizada."
+
+    Formação Acadêmica:
+      - institution: Pontifícia Universidade Católica do Rio Grande do Sul (PUCRS)
+        area: Neurociência e Comportamento
+        degree: Pós
+        start_date: 2025-05
+
+      - institution: Universidade de Ribeirão Preto (UNAERP)
+        area: Psicologia
+        degree: B.Sc
+        start_date: 2020
+        end_date: 2024
+
+    Experiência Clínica:
+      - company: Autônoma
+        position: Atendimentos Psicoterapêuticos
+        location: Remoto
+        start_date: 2025-03
+        highlights:
+          - Atendimentos psicoterapêuticos individuais focados na promoção de saúde mental e bem-estar.
+          - Gestão de prontuários, planejamento terapêutico e acompanhamento contínuo da evolução clínica.
+          - Participação em supervisões clínicas para aprimoramento das práticas terapêuticas.
+
+    Experiência em Pesquisa e Liderança Acadêmica:
+      - company: LACSPPM - UNAERP
+        position: Diretora de Ensino e Pesquisa
+        location: Remoto
+        start_date: 2025-03
+        end_date: 2025-12
+        highlights:
+          - Coordenação de grupos de estudos e atividades acadêmicas focadas em Construcionismo Social.
+          - Organização do evento "Interiorando Saberes" (Out/2025), promovendo diálogos sobre práticas pós-modernas.
+
+      - company: UNAERP
+        position: Iniciação Científica em Neurofarmacologia
+        location: Ribeirão Preto - SP
+        start_date: 2021-09
+        end_date: 2023-01
+        summary:
+
+        highlights:
+          - 'Iniciação Científica no departamento de Biotecnologia a partir do apoio técnico ao projeto de doutorado "Potencial antidepressivo da Riparina A: Efeitos sobre os níveis do fator neurotrófico derivado do cérebro (BDNF) no modelo de depressão induzido por CUMS em ratos".'
+          - "Experiência em experimentação animal: Teste Esquiva Passiva (Shuttle Box); Protocolo CUMS; Ensaio de contorções abdominais induzidas por ácido acético 0,1 N; Teste de retirada da cauda (Tail Flick test)."
+
+      - company: UNAERP
+        position: Representante Discente
+        location: Ribeirão Preto - SP
+        start_date: 2020
+        end_date: 2024
+        highlights:
+          - Representante discente do Curso de Psicologia (2023-2024).
+          - Representante da Turma 38 do Curso de Psicologia escolhida pelos colegas de turma para representá-los em questões acadêmicas (2020-2024).
+
+      - company: Oxford Assessoria em Eventos
+        position: Comissão Auxiliar do Congresso Aprender Criança 2022
+        location: Ribeirão Preto - SP
+        date: 2022-08
+        highlights:
+          - Convidada por docente a ser parte auxiliar da comissão do Congresso Aprender Criança 2022 (18 a 20 de agosto de 2022).
+
+    Projetos de Extensão:
+      - company: UNAERP
+        position: Ambulatório de Saúde Mental do Hospital Electro Bonini
+        location: Ribeirão Preto - SP
+        start_date: 2024-08
+        end_date: 2024-12
+        highlights:
+          - Participação como extensionista do Ambulatório de Saúde Mental do Hospital Electro Bonini.
+
+      - company: UNAERP
+        position: Ambulatório de Luto
+        location: Ribeirão Preto - SP
+        start_date: 2024-02
+        end_date: 2024-12
+        highlights:
+          - "Atuação no grupo de pesquisa Ambulatório de Luto da UNAERP, com foco no atendimento clínico a enlutados, supervisão de casos e elaboração de pesquisas sobre o tema."
+
+      - company: UNAERP
+        position: Projeto Formando Campeões para a Vida
+        location: Ribeirão Preto - SP
+        start_date: 2024-02
+        end_date: 2024-12
+        highlights:
+          - Participação como extensionista do curso de Psicologia no projeto Formando Campeões para a Vida, com enfoque na psicologia do esporte no apoio para as equipes da natação.
+
+      - company: UNAERP
+        position: Triagem Clínica de Psicologia
+        location: Ribeirão Preto - SP
+        start_date: 2023-02
+        end_date: 2023-12
+        highlights:
+          - Participação como extensionista da Triagem da Clínica de Psicologia da Universidade de Ribeirão Preto.
+
+    Cursos:
+      - company: "Johns Hopkins University"
+        position: "Psychological First Aid"
+        date: 2023
+
+      - company: Beneficiência Portuguesa de Ribeirão Preto
+        position: "XII curso de psicologia hospitalar: introdução à prática no atendimento breve dentro do hospital geral"
+        date: 2022-12
+
+    Idiomas:
+      - label: Inglês
+        details: Avançado
+      - label: Português
+        details: Nativo
+
+    Voluntariado:
+      - company: Centro de Voluntariado de Ribeirão Preto - Projeto Conta Mais
+        position: Contadora de historias para crianças hospitalizadas no UE HC.
+        location: Ribeirão Preto - SP
+
+      - company: Autônoma
+        position: Recreação Infantil
+        location: Ribeirão Preto - SP
+        summary: Atividades de recreação para crianças em festas de aniversário e eventos diversos.
+
+      - company: Hamburgada do bem
+        position: Fótografa
+        location: Campinas - SP
+        summary: Participação como fotógrafa voluntária em evento social Hamburgada do Bem.
+
+      - company: Site Oficial da Engenharia de Computação - UNIFESP
+        position: Voluntária na Criação do Site
+        location: Remoto
+        summary: Participação na criação do site oficial do curso de Engenharia de Computação (UNIFESP).
+        highlights:
+          - Desenvolvimento do design e identidade visual do site e formatação do conteúdo.
+          - "Link para o site: [https://ecomp.unifesp.br/](https://ecomp.unifesp.br/)"
+design:
+  theme: classic
+
+locale:
+  language: portuguese
