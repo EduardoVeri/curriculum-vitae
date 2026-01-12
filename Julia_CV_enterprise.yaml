@@ -33,6 +33,13 @@ cv:
           - Participação em supervisões clínicas para aprimoramento das práticas terapêuticas.
 
     Experiência em Pesquisa e Liderança Acadêmica:
+      - company: GEPEN - UNICAMP
+        position: Membro
+        location: Campinas - SP
+        start_date: 2025-08
+        highlights:
+          - Participação no Grupo de Estudos de Psicologia do Esporte e Neurociência.
+
       - company: LACSPPM - UNAERP
         position: Diretora de Ensino e Pesquisa
         location: Remoto
@@ -122,12 +129,7 @@ cv:
         position: Contadora de historias para crianças hospitalizadas no UE HC.
         location: Ribeirão Preto - SP
 
-      - company: Autônoma
-        position: Recreação Infantil
-        location: Ribeirão Preto - SP
-        summary: Atividades de recreação para crianças em festas de aniversário e eventos diversos.
-
-      - company: Hamburgada do bem
+      - company: Hamburgada do Bem
         position: Fótografa
         location: Campinas - SP
         summary: Participação como fotógrafa voluntária em evento social Hamburgada do Bem.
@@ -139,6 +141,75 @@ cv:
         highlights:
           - Desenvolvimento do design e identidade visual do site e formatação do conteúdo.
           - "Link para o site: [https://ecomp.unifesp.br/](https://ecomp.unifesp.br/)"
+
+    Estágios Curriculares:
+
+      - label: "Psicologia Saúde da Família"
+        details: "Associação Todos na Fraternidade"
+
+      - label: "Psicologia da Saúde"
+        details: "Hospital Beneficência Portuguesa"
+
+      - label: "Psicologia Saúde Mental"
+        details: "Hospital Santa Tereza"
+
+      - label: "Psicologia Prevenção e Promoção de Saúde em Crianças"
+        details: "SCFV - Serviço de Convivência e Fortalecimento de Vínculos - Bonfim"
+
+      - label: "Psicologia Psicoterapia Comportamental"
+        details: "Clínica de Psicologia da Universidade Ribeirão Preto UNAERP"
+
+      - label: "Psicologia Psicoterapia de Grupo"
+        details: "Instituto Luz"
+
+      - label: "Psicologia Plantão Psicológico"
+        details: "Hospital Eletro Bonini UNAERP"
+
+      - label: "Psicologia Saúde do Trabalhador"
+        details: "Projeto Formando Campeões na vida UNAERP"
+
+      - label: "Psicologia Prevenção e Promoção de Saúde em Adultos"
+        details: "Projeto Nascer Maternidade UNAERP"
+
+      - label: "Psicologia Prevenção e Promoção de Saúde em Adolescentes"
+        details: "SCFV Simioni"
+
+      - label: "Psicologia Psicologia do Trabalho"
+        details: "Projeto Formando Campeões na vida UNAERP"
+
+      - label: "Psicodiagnóstico"
+        details: "Clínica de Psicologia da Universidade Ribeirão Preto UNAERP"
+
+      - label: "Psicologia Psicologia Escolar e Educacional I e II"
+        details: "E.E. Miguel Jorge"
+
+      - label: "Orientação Profissional e de Carreira"
+        details: "Clínica de Psicologia da Universidade Ribeirão Preto - UNAERP"
+      
+      - label: Psicologia de Orientação Psicanalítica
+        details: "Clínica de Psicologia da Universidade Ribeirão Preto UNAERP"
+
+      - label: "Atividade Prática - Psicologia Aplicada à Pessoa com Deficiência I e II"
+        details: "Clínica de Psicologia da Universidade Ribeirão Preto UNAERP"
+
+      - label: "Atividade prática Psicologia Psicologia Escolar e Educacional I e II"
+        details: "E.E. Miguel Jorge"
+
+      - label: "Atividade Prática - Métodos e Técnicas de Avaliação Psicológica II."
+        details: "Clínica de Psicologia da Universidade Ribeirão Preto - UNAERP"
+
+      - label: "Atividade Prática - Psicomotricidade"
+        details: "Centro de Educação Especial e Ensino Fundamental - Egydio Pedreschi"
+
+      - label: "Atividade Prática - Psicologia Jurídica"
+        details: "Conselho Tutelar III"
+
+      - label: "Atividade Prática Métodos e Técnicas de Avaliação Psicológica I."
+        details: "Clínica de Psicologia da Universidade Ribeirão Preto UNAERP"
+
+      - label: "Atividade Prática Psicologia Educacional e Problemas de Aprendizagem"
+        details: "Clínica de Psicologia da Universidade Ribeirão Preto UNAERP"
+
 design:
   theme: classic
 
