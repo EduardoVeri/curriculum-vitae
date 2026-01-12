@@ -12,12 +12,12 @@ cv:
       username: eduardoverissimofaccio
   sections:
     Resumo:
-      - "Formado no Bacharel Interdisciplinar em Ciência e Tecnologia e estudante do décimo semestre em Engenharia da Computação na UNIFESP em São José dos Campos. Altruísta, justo e amoroso são três pequenas palavras que me descrevem de modo geral. Sempre visando dar o meu melhor no que faço e apoiando quem estiver em minha companhia nessa jornada. Atualmente busco  aperfeiçoar sobre diversas linguagens de programação, como C, C++, Java e Python e em suas aplicações na área de aprendizado de máquina. Minha paixão pela tecnologia é o que me impulsiona a continuar explorando e aprendendo cada vez mais."
+      - "Formado em Engenharia de Computação e no Bacharel Interdisciplinar em Ciência e Tecnologia na UNIFESP em São José dos Campos. Altruísta, justo e amoroso são três pequenas palavras que me descrevem de modo geral. Sempre visando dar o meu melhor no que faço e apoiando quem estiver em minha companhia nessa jornada. Atualmente busco  aperfeiçoar sobre diversas linguagens de programação, como C, C++, Java e Python e em suas aplicações na área de aprendizado de máquina. Minha paixão pela tecnologia é o que me impulsiona a continuar explorando e aprendendo cada vez mais."
     Formação Acadêmica:
       - institution: Universidade Federal de São Paulo (UNIFESP)
         area: Bacharelado em Engenharia de Computação
         start_date: 2020
-        end_date: 2026
+        end_date: 2025
         highlights:
           - "Nota Atual: 9,575"
       - institution: Universidade Federal de São Paulo (UNIFESP)
@@ -28,31 +28,45 @@ cv:
           - "Nota final: 9,752"
     Experiência:
       - company: Samsung
+        position: Pesquisador Júnior em Pesquisa e Desenvolvimento de Inteligência Artificial
+        location: Campinas, SP
+        start_date: 2025-08
+        summary: Atuação no time de Frequência Cardíaca, participando de iniciativas técnicas para aprimoramento da precisão de biossinais em dispositivos vestíveis.
+        highlights:
+          - Definição de protocolos de coleta de dados e validação de algoritmos.
+          - Reporte de resultados e discussão de estratégias técnicas em inglês junto à supervisão e times globais.
+          - Desenvolvimento, validação e deploy de modelos de aprendizado de máquina.
+          - Arquitetura e manutenção de pipelines de dados em Python e otimização de código embarcado em C.
+          - Gestão da qualidade de código via ferramentas de integração contínua.
+
+      - company: Samsung
         position: Estagiário em Pesquisa e Desenvolvimento em Inteligência Artificial
         location: Campinas, SP
         start_date: 2023-11
+        end_date: 2025-07
+        summary: Estagiário do time de Frequência Cardíaca, focado no suporte ao desenvolvimento de soluções para estimativa de dados em wearables.
         highlights:
-          - Integrante do time de Frequência Cardíaca, em que o principal objetivo é melhorar os resultados estimados desse dado pelos dispositivos vestíveis da Samsung.
-          - Auxílio no processamento, análise e validação de dados obtidos por meio de protocolos de exercício físico.
-          - Desenvolvimento e validação de algoritmos de aprendizado de máquina.
-          - Desenvolvimento e manutenção de scripts e pipelines utilizando a linguagem Python.
-          - Desenvolvimento e manutenção de códigos embarcados em C.
-          - Otimização e automação de processos por meio de ferramentas de integração contínua.
+          - Auxílio operacional no processamento e análise exploratória de dados de protocolos físicos.
+          - Implementação de features e manutenção de scripts em Python sob supervisão.
+          - Colaboração no desenvolvimento de rotinas para código embarcado em C.
+          - Apoio na validação de algoritmos de ML e automação de testes utilizando ferramentas de integração contínua.
+
       - company: Sistema de Recomendação Educacional (SIREEDU)
         position: Desenvolvedor
         location: São José dos Campos - SP
         start_date: 2024-03
+        summary: "O SIREEDU é um projeto de mestrado em pesquisa operacional da UNIFESP liderado pela aluna Lucineide Pimenta, visando auxiliar alunos em cursos superiores ao recomendar produtos educacionais, com base em dois questionários: inteligências múltiplas e estilo de aprendizagem."
         highlights:
-          - "O SIREEDU é um projeto de mestrado em pesquisa operacional da UNIFESP liderado pela aluna Lucineide Pimenta, visando auxiliar alunos em cursos superiores ao recomendar produtos educacionais, com base em dois questionários: inteligências múltiplas e estilo de aprendizagem."
-          - Integrante voluntário do time para desenvolver a primeira versão do sistema de recomendação.
+          - Integrante do time para desenvolver a primeira versão do sistema de recomendação.
           - Manutenção de código legado desenvolvido no framework Aurelia (JavaScript) para frontend e Django para backend.
+
       - company: Mulheres nas Exatas - UNIFESP
         position: Professor de Python - Nível Básico
         location: São José dos Campos - SP
         start_date: 2022-05
         end_date: 2022-11
+        summary: "O projeto mulheres nas exatas possui como principal motivação cumprir os objetivos 4 e 5 de desenvolvimento sustentável da ONU: 1) garantir acesso à educação inclusiva, de qualidade e equitativa; 2) Alcançar a igualdade de gênero e empoderar as mulheres e meninas."
         highlights:
-          - "O projeto mulheres nas exatas possui como principal motivação cumprir os objetivos 4 e 5 de desenvolvimento sustentável da ONU: 1) garantir acesso à educação inclusiva, de qualidade e equitativa; 2) Alcançar a igualdade de gênero e empoderar as mulheres e meninas."
           - "Dessa forma, eu e minha colega Bárbara Morais tínhamos o papel de introduzir a linguagem de programação Python, de maneira simples e prática, para alunos de ensino fundamental inscritas no programa Decolar da cidade de São José dos Campos. Nossa atuação era fundamental para permitir que esses alunos e alunas tenham o desejo de ingressar em áreas de STEM."
           - "Uma breve apresentação do nosso trabalho no projeto: [Vídeo](https://youtu.be/LuUihXDo2jU?si=__kTMe4_IR3ZlKhy)"
     Projetos:
@@ -88,6 +102,7 @@ cv:
       - company: Universidade Federal de São Paulo (UNIFESP)
         position: Representante discente do curso de Engenharia de Computação.
         start_date: 2023-03
+        end_date: 2024-04
       - company: Universidade Federal de São Paulo (UNIFESP)
         position: Monitor de Algoritmos e Estruturas de Dados.
         start_date: 2021-09
@@ -101,10 +116,17 @@ cv:
         start_date: 2023-05
         end_date: 2023-07
     Prêmios:
+      - name: Samsung SW Certificate - Nível Professional
+        date: "Samsung"
+        summary: O Teste de Certificação de Software (SW) é um programa de certificação criado pela Samsung para avaliar e validar as habilidades de desenvolvimento de software de pesquisadores, engenheiros e desenvolvedores que estão envolvidos em projetos de software.
+        highlights:
+          - Nível Professional é o segundo de três níveis disponíveis no programa de certificação.
+
       - name: Samsung SW Certificate - Advanced
         date: "Samsung"
         highlights:
-          - O Teste de Certificação de Software (SW) é um programa de certificação criado pela Samsung para avaliar e validar as habilidades de desenvolvimento de software de pesquisadores, engenheiros e desenvolvedores que estão envolvidos em projetos de software.
+          - Nível Advanced é o primeiro de três níveis disponíveis no programa de certificação.
+
       - name: Menção Honrosa
         date: "Dom Bosco Americana"
         highlights:
@@ -112,73 +134,10 @@ cv:
 
 design:
   theme: sb2nov
-  font: Latin Modern Serif
-  font_size: 10pt
-  page_size: letterpaper
-  color: "#004f90"
-  disable_external_link_icons: false
-  disable_page_numbering: true
-  page_numbering_style: NAME - Page PAGE_NUMBER of TOTAL_PAGES
-  disable_last_updated_date: true
-  last_updated_date_style: Last updated in TODAY
-  header_font_size: 24 pt
-  text_alignment: justified
-  seperator_between_connections: ""
-  use_icons_for_connections: true
-  margins:
-    page:
-      top: 2 cm
-      bottom: 2 cm
-      left: 2 cm
-      right: 2 cm
-    section_title:
-      top: 0.3 cm
-      bottom: 0.2 cm
-    entry_area:
-      left_and_right: 0.2 cm
-      vertical_between: 0.2 cm
-      date_and_location_width: 4.5 cm
-    highlights_area:
-      top: 0.10 cm
-      left: 0.4 cm
-      vertical_between_bullet_points: 0.10 cm
-    header:
-      vertical_between_name_and_connections: 0.3 cm
-      bottom: 0.3 cm
-      horizontal_between_connections: 0.5 cm
+  page:
+    size: a4
+    show_footer: true
+    show_top_note: false
 
-locale_catalog:
-  phone_number_format: national
-  date_style: "MONTH_ABBREVIATION YEAR"
-  abbreviations_for_months:
-    - Jan
-    - Fev
-    - Mar
-    - Abr
-    - Maio
-    - Jun
-    - Jul
-    - Ago
-    - Set
-    - Out
-    - Nov
-    - Dez
-  full_names_of_months:
-    - Janeiro
-    - Fevereiro
-    - Março
-    - Abril
-    - Maio
-    - Junho
-    - Julho
-    - Agosto
-    - Setembro
-    - Outubro
-    - Novembro
-    - Dezembro
-  month: mês
-  months: meses
-  year: ano
-  years: anos
-  present: o momento
-  to: até
+locale:
+  language: portuguese
